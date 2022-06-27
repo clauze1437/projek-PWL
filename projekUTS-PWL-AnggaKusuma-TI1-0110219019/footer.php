@@ -2,7 +2,7 @@
   <div class="col-md-12">
     <!-- Footer -->
     <div class="alert alert-primary" role="alert">
-      Develop By: Alwan &copy; 2021
+      Develop By: Angga 
     </div>
     <!-- Akhir footer -->
   </div>
